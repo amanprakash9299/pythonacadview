@@ -1,0 +1,9 @@
+1.git config --global user.name "amanprakash9299"
+2.git config --global user.email amanprakash18071997@gmail.com
+3.git init 
+4. git add.
+5.git status
+6.git commit-m"first commit"
+7.git push origin master
+8.git log
+9.git exit
